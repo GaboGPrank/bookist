@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bookist/static/css/main.1f1b4927.css",
+    "main.js": "/bookist/static/js/main.62bed1de.js",
+    "static/media/bootstrap-icons.woff?": "/bookist/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/bookist/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/bookist/index.html",
+    "main.1f1b4927.css.map": "/bookist/static/css/main.1f1b4927.css.map",
+    "main.62bed1de.js.map": "/bookist/static/js/main.62bed1de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f1b4927.css",
+    "static/js/main.62bed1de.js"
+  ]
+}
